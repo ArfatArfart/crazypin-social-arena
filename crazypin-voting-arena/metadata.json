@@ -1,9 +1,0 @@
-{
-  "name": "CrazyPin Voting Arena",
-  "description": "A social voting platform where users participate in structured polls, rating participants on craziness, madness, and foolishness.",
-  "requestFramePermissions": [
-    "camera",
-    "microphone",
-    "geolocation"
-  ]
-}
